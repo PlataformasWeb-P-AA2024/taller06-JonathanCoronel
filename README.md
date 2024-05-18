@@ -1,6 +1,6 @@
 # taller06
 
-##Integrantes: Jonathan Coronel y Oliver Pinos
+## Integrantes: Jonathan Coronel y Oliver Pinos
 
 ### Problemática
 
@@ -37,13 +37,13 @@ Considerandos:
 * Presentar capturas de pantalla de la base de datos en sqlite
 <div>
 <p style = 'text-align:center;'>
-<img src="https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JonathanCoronel/blob/main/Imagenes/Captura%20cp.png" width="800px">
+<img src="https://github.com/PlataformasWeb-P-AA2024/taller06-JonathanCoronel/blob/main/imagenes/Imagen_base.png" width="800px">
 </p>
 </div>
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JonathanCoronel/blob/main/Imagenes/Captura%20cp.png" width="800px">
+<img src="https://github.com/PlataformasWeb-P-AA2024/taller06-JonathanCoronel/blob/main/imagenes/Imagen_base2.png" width="800px">
 </p>
 </div>
 
