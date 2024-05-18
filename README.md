@@ -1,5 +1,7 @@
 # taller06
 
+##Integrantes: Jonathan Coronel y Oliver Pinos
+
 ### Problemática
 
 * Crear un proceso de importación de datos. Desde la siguiente dirección web a una base de datos local. Usar sqlite como gestor de base de datos y además usar la librería SqlAlchemy para la creación de la entidad, guardar registros y consulta de información.
@@ -33,6 +35,17 @@ Considerandos:
 	* Presentar todos los países que tengan en su cadena de nombre de país "uador" o en su cadena de capital "ito".
 
 * Presentar capturas de pantalla de la base de datos en sqlite
+<div>
+<p style = 'text-align:center;'>
+<img src="https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JonathanCoronel/blob/main/Imagenes/Captura%20cp.png" width="800px">
+</p>
+</div>
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-JonathanCoronel/blob/main/Imagenes/Captura%20cp.png" width="800px">
+</p>
+</div>
 
 ### Importante
 * Se sugiere realizar un script por cada tarea: crear entidad; guardar información y consultar información
